@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @sanjeetk-dev
-- 👀 I’m interested in coding and programming 
-- 🌱 I’m currently learning new language 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-sanjeetk-dev/sanjeetk-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I'm Sanjeet Kumar!
+🚀 Passionate developer exploring the world of software development.
+💻 Skilled in JavaScript, TypeScript, React, and backend technologies.
+📂 Building projects that solve real-world problems.
+🔍 Always learning and improving my coding skills.
